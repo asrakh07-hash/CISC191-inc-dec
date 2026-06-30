@@ -1,0 +1,33 @@
+# Maven build directory
+target/
+
+# Compiled class files
+*.class
+
+# Logs
+*.log
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+!*.code-workspace
+
+# Java-specific
+*.jar
+*.war
+*.ear
+
+# Backup / temp files
+*.tmp
+*.bak
+*.swp
+*.swo
+
